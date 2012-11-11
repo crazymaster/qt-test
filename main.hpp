@@ -1,7 +1,7 @@
 #ifndef MAIN_HPP_ 
 #define MAIN_HPP_ 
 
-#include "qdialog.h"
+#include <QDialog>
 
 class QLabel;
 class QPushButton;
